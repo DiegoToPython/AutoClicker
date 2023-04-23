@@ -1,8 +1,8 @@
 # AutoClicker
-Simple programme python.
+Simple python programm.  
 
-Choisir une clé pour commencer l'autoclicker.
-Choisir une clé pour le terminer.
-Choisir le nombre de CPS.
+Choose a key to start the Autoclicker.  
+Choose a key to end the Autoclicker.  
+Choose the number of CPS.  
 
-! FERMER LA PAGE POUR COMMENCER !
+! Close the page to start clicking !
